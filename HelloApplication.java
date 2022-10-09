@@ -16,6 +16,7 @@ public class HelloApplication extends Application {
         Scene scene = new Scene(fxmlLoader.load(), 917, 740);
         stage.setTitle("Hello!");
         stage.setScene(scene);
+        System.out.println("ffghgfgfgfgghh")
         stage.show();
         //Музыка
 //        File file = new File("trava.wav");
